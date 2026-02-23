@@ -12,7 +12,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=false&width=680&lines=Building+intelligence%2C+one+commit+at+a+time+%F0%9F%A7%A0;Chess+%E2%99%9F%EF%B8%8F+%7C+Code+%F0%9F%96%A5%EF%B8%8F+%7C+Manga+%F0%9F%96%8A%EF%B8%8F+%7C+Grind+%F0%9F%94%A5;KIIT+University+%E2%80%A2+CSE+%E2%80%A2+Class+of+2027)](https://git.io/typing-svg)
 
 <br/>
----
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
