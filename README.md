@@ -4,7 +4,7 @@
 <!--                  MINECRAFT BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=5a3e1b&section=header" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=5a3e1b&section=header" width="100%"/>](https://capsule-render.vercel.app/api?type=venom&height=280&text=Subham%20Dutta&fontSize=72&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&stroke=7c3aed&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Builder&descAlignY=75&descSize=16&descColor=a78bfa%22%20width=%22100%)
 <img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=4a7c2f&section=header" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=SUBHAM%20DUTTA&fontSize=68&color=1a1a1a&fontColor=ffffff&stroke=4a7c2f&strokeWidth=3&fontAlignY=50&desc=⛏%20AI%20%2F%20ML%20Engineer%20%7C%20Hackathon%20Lover%20%7C%20Systems%20Builder&descAlignY=75&descSize=15&descColor=7ec850" width="100%"/>
