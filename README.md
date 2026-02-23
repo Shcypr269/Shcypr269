@@ -13,9 +13,7 @@
 
 <br/>
 
-<!-- Profile views + social counts -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-dutta-98b86a3a2)
-</div>
+
 
 ---
 
