@@ -15,9 +15,6 @@
 
 <!-- Profile views + social counts -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-dutta-98b86a3a2)
-[![GitHub followers](https://img.shields.io/github/followers/Shcypr269?label=Follow&style=flat-square&color=7c3aed&labelColor=1a1a2e)](https://github.com/Shcypr269)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shcypr269&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/Shcypr269)
-
 </div>
 
 ---
