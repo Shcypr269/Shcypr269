@@ -28,8 +28,7 @@
 
 - 🛰️ **Currently:** Working on AI-powered ML projects at **KIIT Robotics Society**
 - 🌱 **Learning:** Advanced Deep Learning architectures & MLOps
-- 💼 **Experience:** AI Intern @ **Infosys**
-- ⚡ **Passion:** I absolutely love hackathons — the adrenaline of building something impactful in just a few days (or hours) keeps me going
+- ⚡ **Passion:** I absolutely love hackathons 
 
 ---
 
