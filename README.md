@@ -1,26 +1,20 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  MINECRAFT BANNER                         -->
+<!--                    VENOM BANNER                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=5a3e1b&section=header" width="100%"/>](https://capsule-render.vercel.app/api?type=venom&height=280&text=Subham%20Dutta&fontSize=72&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&stroke=7c3aed&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Builder&descAlignY=75&descSize=16&descColor=a78bfa%22%20width=%22100%)
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=4a7c2f&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Subham%20Dutta&fontSize=72&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&stroke=7c3aed&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20Hackathon%20Lover%20%E2%80%A2%20Systems%20Builder&descAlignY=75&descSize=16&descColor=a78bfa" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=SUBHAM%20DUTTA&fontSize=68&color=1a1a1a&fontColor=ffffff&stroke=4a7c2f&strokeWidth=3&fontAlignY=50&desc=⛏%20AI%20%2F%20ML%20Engineer%20%7C%20Hackathon%20Lover%20%7C%20Systems%20Builder&descAlignY=75&descSize=15&descColor=7ec850" width="100%"/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=4a7c2f&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=5a3e1b&section=footer" width="100%"/>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=7EC850&center=true&vCenter=true&width=700&lines=%E2%9B%8F%EF%B8%8F+Mining+data+veins+in+the+ML+dimension...;%F0%9F%8F%86+Hackathons+are+my+boss+fights.+I+don't+lose.;%E2%99%9F%EF%B8%8F+Chess+%7C+%F0%9F%96%A5%EF%B8%8F+Code+%7C+%F0%9F%8E%AE+Grind+%7C+%F0%9F%96%8A%EF%B8%8F+Manga;KIIT+University+%E2%80%A2+CSE+%E2%80%A2+AI+Intern+%40+Infosys)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=⛏️+Mining+data+veins+in+the+ML+dimension...;🏆+Hackathons+are+my+boss+fights.+I+don't+lose.;♟️+Chess+|+💻+Code+|+🎮+Grind+|+🖊️+Manga;KIIT+University+•+CSE+•+Class+of+2027)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-dutta-98b86a3a2)
-[![GitHub followers](https://img.shields.io/github/followers/Shcypr269?label=Follow&style=flat-square&color=4a7c2f&labelColor=1a1a1a)](https://github.com/Shcypr269)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shcypr269&style=flat-square&color=4a7c2f&label=Profile+Views)](https://github.com/Shcypr269)
+[![GitHub followers](https://img.shields.io/github/followers/Shcypr269?label=Follow&style=flat-square&color=7c3aed&labelColor=1a1a2e)](https://github.com/Shcypr269)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shcypr269&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/Shcypr269)
 
 </div>
 
@@ -30,63 +24,12 @@
 <!--                     ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🧬 About Me
+## 🚀 About Me
 
-<br/>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   👤  NAME       →   Subham Dutta                               │
-│   🎮  ALIAS      →   Shcypr269                                  │
-│   📍  SPAWN      →   Bhubaneswar, India  🇮🇳                    │
-│   🎓  GUILD      →   KIIT University — B.Tech CSE (3rd Year)    │
-│   ⚗️  ROLE       →   AI Intern @ Infosys                        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Current Focus
-```
-▸ Machine Learning & Deep Learning
-▸ Computer Vision & NLP  
-▸ Hackathon Projects
-▸ Competitive Programming
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 Player Interests
-```
-♟️  Chess — strategic depth
-🖊️  Manga panel illustration
-🎮  Souls · FIFA · AAA titles
-⬛  Rubik's cube speedsolving
-⚙️  Building things from zero
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-> **`philosophy:`** *"Architecture before syntax. Structure before speed."*
-
-</div>
+- 🛰️ **Currently:** Working on AI-powered ML projects at **KIIT Robotics Society**
+- 🌱 **Learning:** Advanced Deep Learning architectures & MLOps
+- 💼 **Experience:** AI Intern @ **Infosys**
+- ⚡ **Passion:** I absolutely love hackathons — the adrenaline of building something impactful in just a few days (or hours) keeps me going
 
 ---
 
@@ -98,21 +41,21 @@
 
 <div align="center">
 
-### ⬛ Languages
+### Languages
 <a href="#"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart&theme=dark&perline=8" /></a>
 
-### 🔴 Machine Learning & AI
+### Machine Learning & AI
 <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=8" /></a>
 
 > **Specializations:** CNNs · RNNs · Transformers · NLP · Classical ML · Data Science & Visualization
 
-### 🟢 Web & Backend
+### Web & Backend
 <a href="#"><img src="https://skillicons.dev/icons?i=django,flask,fastapi,html,css,bootstrap,tailwind&theme=dark&perline=8" /></a>
 
-### 🟣 Databases & Infrastructure
+### Databases & Infrastructure
 <a href="#"><img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,linux&theme=dark&perline=8" /></a>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 <a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,jupyter,postman,rabbitmq&theme=dark&perline=8" /></a>
 
 </div>
@@ -149,13 +92,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shcypr269&show_icons=true&theme=tokyonight&bg_color=0d1a0d&title_color=7ec850&icon_color=4a7c2f&text_color=c8e6c9&border_color=2d5a1b&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shcypr269&show_icons=true&theme=tokyonight&bg_color=0d0d1a&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd&border_color=2d1b69&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcypr269&layout=compact&theme=tokyonight&bg_color=0d1a0d&title_color=7ec850&text_color=c8e6c9&border_color=2d5a1b&hide_border=false&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcypr269&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&border_color=2d1b69&hide_border=false&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Shcypr269&theme=tokyonight&background=0d1a0d&border=2d5a1b&ring=4a7c2f&fire=7ec850&currStreakLabel=7ec850&sideLabels=c8e6c9&dates=6b9e6b" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Shcypr269&theme=tokyonight&background=0d0d1a&border=2d1b69&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&sideLabels=c4b5fd&dates=6b7280" height="180"/>
 
 </div>
 
@@ -192,7 +135,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-dutta-98b86a3a2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shcypr269)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shcypr269)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsubh269@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dsubh_269?igsh=dnV4bmdjbTZveTA=)
 
@@ -203,7 +146,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=4a7c2f&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=5a3e1b&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer" width="100%"/>
 
 </div>
