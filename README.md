@@ -11,15 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=⛏️+Mining+data+veins+in+the+ML+dimension...;🏆+Hackathons+are+my+boss+fights.+I+don't+lose.;♟️+Chess+|+💻+Code+|+🎮+Grind+|+🖊️+Manga;KIIT+University+•+CSE+•+Class+of+2027)](https://git.io/typing-svg)
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-dutta-98b86a3a2)
-[![GitHub followers](https://img.shields.io/github/followers/Shcypr269?label=Follow&style=flat-square&color=7c3aed&labelColor=1a1a2e)](https://github.com/Shcypr269)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shcypr269&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/Shcypr269)
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
