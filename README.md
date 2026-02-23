@@ -63,12 +63,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🎭 **[DeepFake-Detector](https://github.com/Shcypr269/DeepFake-Detector)** | Binary classifier distinguishing synthetic media from real footage using CNN artifact analysis | `Python` `TensorFlow` `CV` |
-| 🔭 **[neural-lens](https://github.com/Shcypr269/neural-lens)** | Visual intelligence layer — deep scene understanding with modular inference pipelines | `PyTorch` `OpenCV` |
-| 🖐️ **[Hand-Gesture-Detection](https://github.com/Shcypr269/Hand-Gesture-Detection)** | Real-time gesture recognition via MediaPipe landmark tracking mapped to discrete control classes | `Python` `MediaPipe` |
-| 🐍 **[Python-Lib-via-C/Java](https://github.com/Shcypr269/Create-My-Own-Python-Library-using-C-or-Java)** | Extending Python through C/Java FFI bindings — going below the abstraction layer | `C` `Java` `Python` |
 | 🧠 **[NLP-Challenge](https://github.com/Shcypr269/NPL-Challenge)** | Competitive NLP pipeline: preprocessing → feature engineering → benchmark evaluation | `Transformers` `NLP` |
-| 🤝 **[KIT-Mitra](https://github.com/Shcypr269/KIT-Mitra)** | Campus-facing intelligent assistant reducing student information friction in production | `LangChain` `Flask` |
-| 💡 **[LeetCode-Problems](https://github.com/Shcypr269/LeetCode-Problems)** | DSA solutions across DP, graphs, strings — written for clarity and pattern recognition | `Python` `Algorithms` |
+
 
 </div>
 
