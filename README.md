@@ -77,13 +77,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shcypr269&show_icons=true&theme=tokyonight&bg_color=0d0d1a&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd&border_color=2d1b69&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcypr269&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&border_color=2d1b69&hide_border=false&langs_count=8" height="180"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Shcypr269&theme=tokyonight&background=0d0d1a&border=2d1b69&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&sideLabels=c4b5fd&dates=6b7280" height="180"/>
 
 </div>
