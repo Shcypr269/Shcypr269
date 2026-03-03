@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=⛏️+Mining+data+veins+in+the+ML+dimension...;🏆+Hackathons+are+my+boss+fights.+I+don't+lose.;♟️+Chess+|+💻+Code+|+🎮+Grind+|+🖊️+Manga;KIIT+University+•+CSE+•+Class+of+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=⛏️+Mining+data+veins+in+the+ML+dimension...;🏆+Hackathons+are+my+boss+fights.+I+don't+lose.;♟️+Chess+|+💻+Code+|+🎮+Grind+|+🖊️+Manga;KIIT+University+•+CSE+•+Class+of+2028)](https://git.io/typing-svg)
 
 <br/>
 <!-- ═══════════════════════════════════════════════════════════ -->
