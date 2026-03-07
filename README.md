@@ -19,7 +19,7 @@
 
 - 🛰️ **Currently:** Working on AI-powered ML projects at **KIIT Robotics Society**
 - 🌱 **Learning:** Advanced Deep Learning architectures & MLOps
-- ⚡ **Passion:** I absolutely love hackathons 
+- ⚡ **Passion:** I absolutely love playing Chess
 
 ---
 
